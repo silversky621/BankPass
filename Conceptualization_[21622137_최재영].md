@@ -74,6 +74,7 @@
                 8. 할당 창구 대기열 흐름 반환        2. 고객 결보, AI 추천 상품 반환
                 9. 고객 상세 결보 및 예실 발른 흐름 반환  4. AI 배정 창구 및 대기 순번 반환
 ```
+<img width="637" height="173" alt="image" src="https://github.com/user-attachments/assets/19c8b235-0a67-41ab-9e75-53190c09ed95" />
 
 시스템의 중심에는 데이터를 처리하고 AI 모델(추천, 분류)을 서빙하는 System이 존재하며, 이를 통해 Customer(고객)와 Banker(행원) 간의 상호작용이 실시간으로 이루어진다.
 
